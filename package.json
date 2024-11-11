@@ -19,7 +19,6 @@
 	"author": "",
 	"license": "GPL-3.0-or-later",
 	"dependencies": {
-		"expo": "^49.0.0", 
 		"@fastify/static": "^8.0.2",
 		"@mercuryworkshop/bare-mux": "^2.1.6",
 		"@mercuryworkshop/epoxy-transport": "^2.1.25",
