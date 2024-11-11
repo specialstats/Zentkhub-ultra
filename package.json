@@ -19,6 +19,14 @@
 	"author": "",
 	"license": "GPL-3.0-or-later",
 	"dependencies": {
+		 "expo": "^49.0.0", 
+    		"react": "18.0.0",  
+    		"react-native": "0.71.0",  
+   		 "expo-status-bar": "^1.2.0",
+   		 "react-native-screens": "^3.0.0",
+   		 "react-native-safe-area-context": "^3.3.0",
+    		"expo-font": "^11.0.0",
+		"expo-constants": "^14.0.0"
 		"@fastify/static": "^8.0.2",
 		"@mercuryworkshop/bare-mux": "^2.1.6",
 		"@mercuryworkshop/epoxy-transport": "^2.1.25",
